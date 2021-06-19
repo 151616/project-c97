@@ -1,0 +1,52 @@
+#title{
+color:navy;
+margin-top: 50px;
+font-family: "Yeon Sung";
+
+}
+#title2{
+font-size: 20px;
+font: bolder;
+
+}
+#username{
+width: 250px;
+height: 30px;
+border-radius: 20px;
+text-align: center;
+font-size: 17px;
+border-color: peru;
+border-width: 3px;
+border-style: double;
+
+}
+#login{
+width: 200px;
+height: 35px;
+background-color: powderblue;
+border-radius: 20px;
+font-size: 17px;
+}
+#container{
+    text-align: center;
+    background-color:springgreen;
+    border-color: steelblue;
+    border-width: 10px;
+    border-style: ridge;
+    border-radius: 20px;
+    margin-top:  105px;
+    margin-right: 200px;
+    margin-left: 450px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+#logo{
+    width: 30px;
+    height: 30px;
+    
+}
+#body{
+    background-image:url(chatting-background.png);
+    background-color: orange;
+}

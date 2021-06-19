@@ -1,0 +1,44 @@
+
+#body{
+    text-align: right;
+    background-image: url(chatting-background.png);
+    background-color: orange;
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}
+#title{
+    color: black;
+
+}
+#add_room{
+    background-color:floralwhite;
+    border-style: ridge;
+    border-radius: 20px;
+    border-width: 10px;
+}
+#room_title{
+    background-color: lightgreen;
+    border-radius: 20px;
+    border-style: ridge;
+}
+#user_name{
+    color: black;
+}
+#output{
+    background-color: lightsteelblue;
+    color: mediumblue;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#room_name{
+    text-align: center;
+}
+#addroom{
+    margin-top: 25px;
+}
+#add_room_title{
+    font-size: 20px;
+    margin-top: 25px;
+}

@@ -1,0 +1,20 @@
+#yes{
+    width: 150px;
+    margin-right: 100px;
+    margin-top: 200px;
+}
+#no{
+    width: 150px;
+    margin-top: 200px;
+
+}
+#title{
+    margin-top: 100px;
+}
+#pages{
+margin-top: 200px;
+}
+#body{
+    background-image: url(chatting-background.png);
+    background-color: orange;
+}

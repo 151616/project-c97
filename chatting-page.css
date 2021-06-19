@@ -1,0 +1,26 @@
+#tick{
+    width: 20px;
+    height: 20px;
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}
+#send_title{
+    margin-top: 225px;
+    margin-bottom: 25px;
+}
+#send{
+    margin-top: 25px;
+}
+#body{
+    text-align: right;
+    background-image: url(chatting-background.png);
+    background-color: orange;
+}
+#send_div{
+    background-color: papayawhip;
+    border-color: peru;
+    border-style: ridge;
+    border-width: 5px;
+}
